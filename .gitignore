@@ -1,0 +1,39 @@
+# Python bytecode and generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Testing and development caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Python package output
+build/
+dist/
+*.egg-info/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*service-account*.json
+
+# Local Claude Code settings
+**/.claude/settings.local.json
+CLAUDE.local.md
+
+# VS Code, macOS, and other local files
+.vscode/
+.idea/
+.DS_Store

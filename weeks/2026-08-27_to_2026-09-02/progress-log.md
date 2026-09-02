@@ -36,3 +36,31 @@ Explain what I will change in the next week.
 1.
 2.
 3.
+
+## Claude Code Safe Session — September 2, 2026
+
+- Repository: technical-learning-lab
+- Permission mode: Manual
+- Objective: Map the repository and create one AI session-log template.
+- Independent decision before Claude: Limited the work to one non-code file.
+- Claude’s proposed file: templates/ai-session-log-template.md
+- Permission accepted: One-time creation of the approved file.
+- Permissions rejected or corrected: [None, or explain what you rejected]
+- Files actually changed: CLAUDE.md and templates/ai-session-log-template.md
+- Diff reviewed by me: Yes
+- Verification performed: git status, cached diff, diff check, and pytest
+- Test result: [Enter the exact result]
+- Privacy check: Confirmed no secrets, personal information, or Nissan material
+- Final decision: Accepted / Modified / Rejected
+- Lesson learned: [Write one sentence]
+- Next step: Continue using Manual mode for small, reviewable learning tasks.
+
+### Verification
+
+- Reviewed the staged Git diff myself.
+- Ran `git diff --cached --check`; no formatting problems were reported.
+- Confirmed that `templates/ai-session-log-template.md` exists.
+- Ran `python -m pytest -q`.
+- Pytest found no tests on the Claude Code safety branch.
+- No source code or tests were changed.
+- The documentation file-existence and Git-formatting checks passed.

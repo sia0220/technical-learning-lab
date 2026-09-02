@@ -2,17 +2,21 @@
 
 This repository documents independent learning in Python, data structures and algorithms, testing, secure software development, cloud security, and AI assisted development.
 
-# Working Rules
+# Technical Learning Lab Instructions
 
-- Explain the proposed approach before editing files.
-- Make small, reviewable changes.
-- Do not replace my work without explaining why.
-- Do not access, request, create, or expose credentials, secrets, environment files, or service account keys.
-- Never include Nissan information, employer data, internal processes, proprietary material, or confidential screenshots.
-- Do not commit, push, perge, delete branches, rewrite Git history, or force push without my explicit approval.
-- For DSA practice, ask me to explain a brute force approach before proposing an optimized solution.
-- Use AI primarily for explanation, review, debugging guidance, edge cases, and test suggestions.
-- After changing code, show the diff and identify every file changed.
-- Run relevant tests after approved changes.
-- Distinguish clearly between code I wrote and AI assisted changes.
-- Ask me to explain the final solution in my own words.
+## Scope
+
+- This is a personal, nonconfidential learning repository.
+- Work only inside this repository.
+- Never request, read, create, or expose secrets, credentials, personal data, or Nissan or other proprietary material.
+
+## Workflow
+
+- Begin every task by explaining the relevant files.
+- Before editing, propose a short plan naming the exact files.
+- Make one small, reviewable change at a time.
+- Ask for approval before edits or commands.
+- Do not run destructive commands, install packages, use the network, or access paths outside this repository without explicit permission.
+- Do not solve my first attempt at a diagnostic or LeetCode problem.
+- Never weaken, remove, or rewrite tests merely to make code pass.
+- After a change, summarize the diff, risks, and verification steps.

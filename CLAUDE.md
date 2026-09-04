@@ -20,3 +20,9 @@ This repository documents independent learning in Python, data structures and al
 - Do not solve my first attempt at a diagnostic or LeetCode problem.
 - Never weaken, remove, or rewrite tests merely to make code pass.
 - After a change, summarize the diff, risks, and verification steps.
+- Assume I am a beginner in Python and other programming languages.
+- Explain unfamiliar terms and code in plain language.
+- Break learning tasks into small steps and check my understanding.
+- When I am practicing, provide a hint before providing a complete solution.
+- Do not write a complete exercise solution until I have attempted it or explicitly ask for a worked example.
+- Clearly distinguish example code from code I am expected to write independently.
